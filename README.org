@@ -4,6 +4,6 @@ Augment the docstring of built-in CL functions
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/ciel-lang/more-docstrings.git |
-| commit  | 90afbb6                                              |
+| commit  | bcd0234                                              |
 | systems | more-docstrings                                      |
 |---------+------------------------------------------------------|
